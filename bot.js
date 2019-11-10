@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("حط الاي دي حق الروم اللي يحصل بيها الاسبام هنا")
+let channel =     client.channels.get("NDA5MDk1OTA3NTgyMjc5Njgw.XchH1A.-EyI8_bqlcQDFXBW_AE3IyA-QgY")
 setInterval(function() {
-channel.send(`حط الكلام اللي تبغاه هنا`);
+channel.send(`Spam by Fareseslam Or Evil ARE back`);
 }, 30)
 })
 
